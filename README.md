@@ -9,7 +9,7 @@ title: "Institute of Translational Health Sciences  \n  \nPROTOCOL TEMPLATE"
     that may not apply to all protocols have italicized instructions highlighted
     in grey.
 
-2.  **Sections and text that are in regular font** represent standard language.
+2.  **And I want to pull a request to release versioin .Sections and text that are in regular font** represent standard language.
     In general, these sections should be present in your final protocol and the
     language should not be changed. However, every protocol is unique and
     changes to standard sections and language may be necessary to meet the needs
