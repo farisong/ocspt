@@ -4,7 +4,7 @@ title: "Institute of Translational Health Sciences  \n  \nPROTOCOL TEMPLATE"
 
 **Instructions to User:**
 
-1.  **Sections where the text is italicized** represent instructions with some
+1.  **The first change Sections where the text is italicized** represent instructions with some
     example text. All require complete customization for your study. Sections
     that may not apply to all protocols have italicized instructions highlighted
     in grey.
