@@ -1,20 +1,21 @@
 ---
-title: "Institute of Translational Health Sciences  \n  \nPROTOCOL TEMPLATE"
+title: Institute of Translational Health Sciences PROTOCOL TEMPLATE
 ---
 
 **Instructions to User:**
 
-1.  **The first change Sections where the text is italicized** represent instructions with some
-    example text. All require complete customization for your study. Sections
-    that may not apply to all protocols have italicized instructions highlighted
-    in grey.
+1.  **The first change Sections where the text is italicized** represent
+    instructions with some example text. All require complete customization for
+    your study. Sections that may not apply to all protocols have italicized
+    instructions highlighted in grey.
 
-2.  **And I want to pull a request to release versioin .Sections and text that are in regular font** represent standard language.
-    In general, these sections should be present in your final protocol and the
-    language should not be changed. However, every protocol is unique and
-    changes to standard sections and language may be necessary to meet the needs
-    of your protocol. Please review the language carefully to make sure that it
-    is accurate for your study.
+2.  **And I want to pull a request to release versioin .Sections and text that
+    are in regular font** represent standard language. In general, these
+    sections should be present in your final protocol and the language should
+    not be changed. However, every protocol is unique and changes to standard
+    sections and language may be necessary to meet the needs of your protocol.
+    Please review the language carefully to make sure that it is accurate for
+    your study.
 
 3.  **Sections that are highlighted in grey, but that have regular font,**
     represent sections or information that needs to be customized as applicable
@@ -34,19 +35,19 @@ title: "Institute of Translational Health Sciences  \n  \nPROTOCOL TEMPLATE"
 
 >   **Protocol Name**
 
-| Protocol Number:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                          |        |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|--------|
-| Version Date:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                          |        |
-| Investigational Device:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                          |        |
-| IDE Number:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                          |        |
-| Study Phase:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                          |        |
-| Sponsor-Investigator:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Name (*please note – for academic studies, the sponsor is the Investigator, not the funding agency)* Address City, State |        |
-| Funding Organization:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                          |        |
-| Site Investigator:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Name: Telephone: Fax: E-mail:                                                                                            |        |
-| **Approval:**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                          |        |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                          |        |
-| *PI or Sponsor Signature (Name and Title)*                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                          | *Date* |
-| **This confidential information about an investigational product is provided for the exclusive use of investigators of this product and is subject to recall at any time. The information in this document may not be disclosed unless federal or state law or regulations require such disclosure. Subject to the foregoing, this information may be disclosed only to those persons involved in the study who have a need to know, with the obligation not to further disseminate this information.**  |                                                                                                                          |        |
+| Protocol Number:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                          |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Version Date:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                          |
+| Investigational Device:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                          |
+| IDE Number:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                          |
+| Study Phase:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                          |
+| Sponsor-Investigator:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Name (*please note – for academic studies, the sponsor is the Investigator, not the funding agency)* Address City, State |
+| Funding Organization:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                          |
+| Site Investigator:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Name: Telephone: Fax: E-mail:                                                                                            |
+| **Approval:**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                          |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                          |
+| *PI or Sponsor Signature (Name and Title)*                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                          |
+| **This confidential information about an investigational product is provided for the exclusive use of investigators of this product and is subject to recall at any time. The information in this document may not be disclosed unless federal or state law or regulations require such disclosure. Subject to the foregoing, this information may be disclosed only to those persons involved in the study who have a need to know, with the obligation not to further disseminate this information.** |                                                                                                                          |
 
 **PROTOCOL AGREEMENT**
 
@@ -66,18 +67,17 @@ Protocol Title: Title
 
 Protocol Date: TBD
 
-|                           |   |        |
-|---------------------------|---|--------|
-| *Investigator Signature*  |   | *Date* |
-|                           |   |        |
-| *Print Name and Title*    |   |        |
-| *Site \#*                 |   |        |
-| *Site Name*               |   |        |
-| *Address*                 |   |        |
-|                           |   |        |
-|                           |   |        |
-|                           |   |        |
-| *Phone Number*            |   |        |
+| *Investigator Signature* |   | *Date* |
+|--------------------------|---|--------|
+|                          |   |        |
+| *Print Name and Title*   |   |        |
+| *Site \#*                |   |        |
+| *Site Name*              |   |        |
+| *Address*                |   |        |
+|                          |   |        |
+|                          |   |        |
+|                          |   |        |
+| *Phone Number*           |   |        |
 
 TABLE OF CONTENTS
 
@@ -318,13 +318,13 @@ complete the proposed feasibility study of the device.*
 2.0 CLINICAL PROTOCOL
 =====================
 
-2.1 Protocol number and title 
-------------------------------
+2.1 Protocol number and title
+-----------------------------
 
 *For example: ABC001: [title of the clinical study]*
 
-2.2 Protocol version number and date 
--------------------------------------
+2.2 Protocol version number and date
+------------------------------------
 
 *For example: Version 1.0, December 10, 2011. Number subsequent versions
 consecutively and include the date of the current version.*
@@ -413,7 +413,7 @@ the blind should a given subject suffer a serious adverse event wherein
 knowledge of the identity of the study treatment or diagnostic product received
 by the subject is necessary for effective emergency treatment of the event.*
 
-### 2.5.5 Treatment adherence 
+### 2.5.5 Treatment adherence
 
 *If applicable, describe the procedures that will be used to assess subject
 compliance with the assigned study treatment or diagnostic product regimen.*
@@ -492,8 +492,8 @@ clinical study and how these risks will be minimized..*
 *Provide an analysis of the risk-to-benefit ratio of study participation and a
 justification for the investigation in light of these risks.*
 
-3.2 Adverse event reporting 
-----------------------------
+3.2 Adverse event reporting
+---------------------------
 
 ### 3.2.1 Adverse event definitions
 
@@ -528,7 +528,7 @@ following outcomes:
 
 -   a congenital anomaly/birth defect.
 
-    **Unanticipated adverse effect:** Any adverse effect, the nature,
+-   **Unanticipated adverse effect:** Any adverse effect, the nature,
     specificity, severity, or frequency of which is not consistent with the risk
     information in the clinical study protocol or elsewhere in the current IDE
     application.
@@ -753,8 +753,8 @@ and when the study has been completed.
 
 Please refer to section 8 of the IDE application.
 
-10.0 ADDITIONAL RECORDS AND REPORTS 
-====================================
+10.0 ADDITIONAL RECORDS AND REPORTS
+===================================
 
 10.1 Data handling and record-keeping
 -------------------------------------
@@ -787,8 +787,8 @@ efficacy of the investigational device, address compliance with the FDA’s
 electronic records and electronic signatures regulations at* [21 CFR Part
 11](http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=11)*.*
 
-10.2 Record maintenance and retention 
---------------------------------------
+10.2 Record maintenance and retention
+-------------------------------------
 
 The sponsor-investigator will maintain records in accordance with *21 CFR 812,
 Subpart G*, to include:
