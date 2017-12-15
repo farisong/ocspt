@@ -14,7 +14,7 @@ before finalising the document. All sample text is in ‘basic text’ style.
 
 ![](media/ae31565383c1211243ea09e9b467d58d.png)
 
-**CLINICAL TRIAL PROTOCOL**
+**临床研究方案**
 
 | **PROTOCOL TITLE:**                                   |                            |
 |-------------------------------------------------------|----------------------------|
@@ -210,9 +210,8 @@ protocol, regulations and Singapore Guideline for Good Clinical Practice
 >   clinical studies that are relevant to the study. If applicable, reference to
 >   literature and data that are relevant to the study.
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 | General Introduction                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |   |
 | Rationale and Justification for the Study                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |   |
@@ -453,7 +452,7 @@ protocol, regulations and Singapore Guideline for Good Clinical Practice
 >   audits and/or IRB review and regulatory inspection(s), providing direct
 >   access to source data/document.
 
-### **QUALITY CONTROL AND QUALITY ASSURANCE**
+### QUALITY CONTROL AND QUALITY ASSURANCE
 
 >   Describe how data will be evaluated for adherence with the protocol and for
 >   accuracy in relation to source documents. Describe who will be responsible
@@ -463,7 +462,7 @@ protocol, regulations and Singapore Guideline for Good Clinical Practice
 >   committee or equivalent, describe the role(s), frequency of meetings and
 >   composition of the committee here.
 
-### **ETHICAL CONSIDERATIONS**
+### ETHICAL CONSIDERATIONS
 
 >   This study will be conducted in accordance with the ethical principles that
 >   have their origin in the Declaration of Helsinki and that are consistent
